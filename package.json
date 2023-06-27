@@ -1,0 +1,26 @@
+{
+  "name": "web-scrapers",
+  "version": "1.0.0",
+  "description": "Web scrapers",
+  "main": "elementgamesscraper.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Simon",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.6",
+    "cheerio": "^1.0.0-rc.12",
+    "eslint": "^8.36.0",
+    "node-fetch": "^3.3.0",
+    "puppeteer": "^19.7.5",
+    "puppeteer-cluster": "^0.23.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-adblocker": "^2.13.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  }
+}
