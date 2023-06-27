@@ -4,8 +4,11 @@ import * as fs from 'fs';
 
 async function getElementCitadelPaint()   {
     try {
+
+        let base_url = "https://elementgames.co.uk/";
+
         // fetching data from url and store the response
-        const response = await fetch('https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/citadel-games-workshop-paints/citadel-base');
+        const response = await fetch(`${base_url}paints-hobby-and-scenery/paints-washes-etc/citadel-games-workshop-paints/citadel-base`);
         // converting the reponse to text format
         const body = await response.text();
 
@@ -17,15 +20,16 @@ async function getElementCitadelPaint()   {
 
         // selecting the required classes for the paint information
         $('.productgrid > .productinfo').map((i, el)  =>  {
-            const paintLink = $(el).find('a').attr('href');
-            const paintImage = $(el).find('a > div > img').attr('src');
+            const paint_link = $(el).find('a').attr('href').replace("/../../../", '/');
             const paintTitle = $(el).find('.producttitle').text();
             const paintPrice = $(el).find('.price').text();
+
+            let paintLink = base_url + paint_link;
+            
 
             // adding items to the array
             items.push({
                 paintLink,
-                paintImage,
                 paintTitle,
                 paintPrice
             });

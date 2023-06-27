@@ -51,7 +51,7 @@ axios.get(targetURL).then((response) => {
 // puppeteer.use(AdBlockerPlugin()).use(StealthPlugin());
 
 // import * as fs from 'fs';
-import { axios } from 'axios';
+// import { axios } from 'axios';
 
 // const getPaint = async () => {
 //   const browser = await puppeteer.launch({
