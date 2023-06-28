@@ -5,7 +5,8 @@
   "main": "elementgamesscraper.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "armypainter": "node ./elementgames/armypainter/elementgames-armypaint-scraper.js"
   },
   "keywords": [],
   "author": "Simon",

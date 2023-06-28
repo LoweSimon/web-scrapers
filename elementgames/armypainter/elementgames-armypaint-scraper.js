@@ -20,7 +20,7 @@ async function getElementArmyPainterPaint()   {
 
         // selecting the required classes for the paint information
         $('.productgrid > .productinfo').map((i, el)  =>  {
-            const paint_link = $(el).find('a').attr('href').replace("/../../../", '/');
+            const paint_link = $(el).find('a').attr('href').replace("/../../", '/');
             const paintTitle = $(el).find('.producttitle').text();
             const paintPrice = $(el).find('.price').text();
 
