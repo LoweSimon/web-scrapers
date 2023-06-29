@@ -2,10 +2,12 @@ import * as cheerio from 'cheerio';
 import fetch from 'node-fetch';
 import * as fs from 'fs';
 
-async function getElementVallejoPaint()   {
+async function getGameColorPaint()   {
     try {
+        const base_url = "https://elementgames.co.uk"
+
         // fetching data from url and store the response
-        const response = await fetch('https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color');
+        const response = await fetch(`${base_url}/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color`);
         // converting the reponse to text format
         const body = await response.text();
 
@@ -17,11 +19,15 @@ async function getElementVallejoPaint()   {
 
         // selecting the required classes for the paint information
         $('.productgrid > .productinfo').map((i, el)  =>  {
+            const paint_link = $(el).find('a').attr('href')
             const paintTitle = $(el).find('.producttitle').text();
             const paintPrice = $(el).find('.price').text();
 
+            const paintLink = base_url + paint_link;
+
             // adding items to the array
             items.push({
+                paintLink,
                 paintTitle,
                 paintPrice
             });
@@ -39,4 +45,4 @@ async function getElementVallejoPaint()   {
     }
 }
 
-getElementVallejoPaint()
+getGameColorPaint()
