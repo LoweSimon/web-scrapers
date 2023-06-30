@@ -1,60 +1,40 @@
-import axios from "axios";
-import Cheerio from "cheerio";
+import * as cheerio from 'cheerio';
+import fetch from "node-fetch";
 import * as fs from 'fs';
-import chalk from "chalk";
 
-const base_url = "https://www.waylandgames.co.uk/"
-
-const url = `${base_url}painting-modelling/paints-sprays-primers/citadel-paints/citadel-base?s__name=ASC`
-const outputFile = '../waylandgames-paint-data/citadel/citadel-base-paint.json'
-const parsedResults = []
-const pageLimit = 2
-let pageCounter = 0
-let resultCounter =0
-
-console.log(chalk.yellow.bgBlue(`\n Scraping of ${chalk.underline.bold(url)} initiated... \n`))
-
-const getBasePaint = async (url) => {
+async function getBasePaint() {
     try {
-        const response = await axios.get(url)
-        const $ = cheerio.load(reponse.data)
+        let base_url = "https://www.waylandgames.co.uk/"
 
-        $('..Grid_gridCell__24sij  > .ProductCard_product__bG4Xh').map((i, el) => {
-            const count = resultCounter++
+        const response = await fetch(`${base_url}painting-modelling/paints-sprays-primers/citadel-paints/citadel-base?s__name=ASC`)
+        const body = await response.text()
+
+        const $ = cheerio.load(body)
+
+        const items = [];
+
+        $('.Grid_gridCell__24sij  > .ProductCard_product__bG4Xh > .ProductCard_productDetails__TbCD2').map((i, el) => {
             const paint_link = $(el).find('a').attr('href')
             const paintTitle = $(el).find('.ProductCard_productName__MjkUX').text()
             const paintPrice = $(el).find('.Price_price__nmbiH').text()
-            const metaData = {
-                count: count,
-                paintLink: base_url + paint_link,
-                paintTitle: paintTitle,
-                paintPrice: paintPrice
-            }
-            parsedResults.push(metaData)
+
+            let paintLink = base_url + paint_link
+
+            items.push({
+                paintLink,
+                paintTitle,
+                paintPrice
+            })
         })
 
-        const nextPageLink = $('.Pagination_pagination__Nhmeo').find('.Pagination_paginationLinkCurrent__5Opkg').parent().next().find('button')
-        console.log(chalk.cyan(` Scrapping: ${nextPageLink}`))
-        pageCounter++
-
-        if (pageCounter === pageLimit) {
-            exportedResults(parsedResults)
-            return false
-        }
-        getBasePaint(nextPageLink)
+        console.log(items)
+        let itemsString = JSON.stringify(items, null, 2)
+        fs.writeFile("../waylandgames-paint-data/citadel/citadel-base-paint.json", itemsString, function(err, result) {
+            if(err) console.log('error', err)
+        })
     } catch (error) {
-        exportedResults(parsedResults)
         console.log(error)
     }
-
-    
-        fs.writeFile(outputFile, JSON.stringify(parsedResults, null, 2), (err) => {
-            if (err) {
-                console.log(err)
-            }
-            console.log(chalk.yellow.bgBlue(`\n ${chalk.underline.bold(parsedResults.length)} Results exported successfully to ${chalk.underline.bold(outputFile)}\n`))
-        })
-    
 }
 
-getBasePaint(url)
+getBasePaint()
