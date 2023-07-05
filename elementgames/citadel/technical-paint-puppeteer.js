@@ -7,7 +7,7 @@ puppeteer.use(StealthPlugin())
 import { executablePath } from 'puppeteer';
 
 
-const full_url = "https://www.waylandgames.co.uk/painting-modelling/paints-sprays-primers/citadel-paints/citadel-layer"
+const full_url = "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/citadel-games-workshop-paints/citadel-technical"
 
 
 const main = async () => {
@@ -24,11 +24,11 @@ const main = async () => {
             return parseFloat(price.replace('£', ''))
         }
 
-        const paintGrid = Array.from(document.querySelectorAll('.Grid_gridCell__24sij'))
+        const paintGrid = Array.from(document.querySelectorAll('.productgrid'))
         const data = paintGrid.map((paint) => ({
-            paintTitle: paint.querySelector('h2 a').getAttribute('aria-label'),
-            paintPrice: convertPrice(paint.querySelector('.Price_price__nmbiH').innerText),
-            paintLink: `https://www.waylandgames.co.uk${paint.querySelector('h2 a').getAttribute('href')}`
+            paintTitle: paint.querySelector('.producttitle').innerText.toLowerCase(),
+            paintPrice: convertPrice(paint.querySelector('.price').innerText),
+            paintLink: `https://elementgames.co.uk/${paint.querySelector('div a').getAttribute('href').replace("../../../", "")}`
         }))
 
         return data
@@ -40,7 +40,7 @@ const main = async () => {
     await browser.close();
 
 
-    fs.writeFile('../waylandgames-paint-data/citadel/citadel-layer-paint.json', JSON.stringify(paintData, null, 2), (err) => {
+    fs.writeFile('../element-games-paint-data/citadel/technical-paint-puppeteer.json', JSON.stringify(paintData, null, 2), (err) => {
         if (err) throw err
         console.log('Successfully save JSON')
     })

@@ -1,40 +1,49 @@
-import * as cheerio from 'cheerio';
-import fetch from "node-fetch";
+import puppeteer from 'puppeteer-extra';
+import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import * as fs from 'fs';
 
-async function getBasePaint() {
-    try {
-        let base_url = "https://www.waylandgames.co.uk/"
+puppeteer.use(StealthPlugin())
 
-        const response = await fetch(`${base_url}painting-modelling/paints-sprays-primers/citadel-paints/citadel-base?s__name=ASC`)
-        const body = await response.text()
+import { executablePath } from 'puppeteer';
 
-        const $ = cheerio.load(body)
 
-        const items = [];
+const full_url = "https://www.waylandgames.co.uk/painting-modelling/paints-sprays-primers/citadel-paints/citadel-base"
 
-        $('.Grid_gridCell__24sij  > .ProductCard_product__bG4Xh > .ProductCard_productDetails__TbCD2').map((i, el) => {
-            const paint_link = $(el).find('a').attr('href')
-            const paintTitle = $(el).find('.ProductCard_productName__MjkUX').text()
-            const paintPrice = $(el).find('.Price_price__nmbiH').text()
 
-            let paintLink = base_url + paint_link
+const main = async () => {
+    
+    const browser = await puppeteer.launch({ headless: false, executablePath: executablePath() })
 
-            items.push({
-                paintLink,
-                paintTitle,
-                paintPrice
-            })
-        })
+    const page = await browser.newPage()
 
-        console.log(items)
-        let itemsString = JSON.stringify(items, null, 2)
-        fs.writeFile("../waylandgames-paint-data/citadel/citadel-base-paint.json", itemsString, function(err, result) {
-            if(err) console.log('error', err)
-        })
-    } catch (error) {
-        console.log(error)
-    }
+    await page.goto(full_url)
+
+    const paintData = await page.evaluate((full_url) => {
+
+        const convertPrice = (price) => {
+            return parseFloat(price.replace('£', ''))
+        }
+
+        const paintPods = Array.from(document.querySelectorAll('.Grid_gridCell__MMwiP '))
+        const data = paintPods.map((paint) => ({
+            paintTitle: paint.querySelector('h2 a').innerText,
+            paintPrice: convertPrice(paint.querySelector('.Price_price__sfl_r ').innerText),
+            paintLink: `https://www.waylandgames.co.uk${paint.querySelector('h2 a').getAttribute('href')}`
+        }))
+
+        return data
+    }, full_url)
+
+    console.log(paintData)
+    
+
+    await browser.close();
+
+
+    fs.writeFile('../waylandgames-paint-data/citadel/citadel-base-paint.json', JSON.stringify(paintData, null, 2), (err) => {
+        if (err) throw err
+        console.log('Successfully save JSON')
+    })
 }
 
-getBasePaint()
+main()

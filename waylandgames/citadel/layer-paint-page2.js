@@ -7,7 +7,7 @@ puppeteer.use(StealthPlugin())
 import { executablePath } from 'puppeteer';
 
 
-const full_url = "https://www.waylandgames.co.uk/painting-modelling/paints-sprays-primers/citadel-paints/citadel-layer"
+const full_url = "https://www.waylandgames.co.uk/painting-modelling/paints-sprays-primers/citadel-paints/citadel-layer?p=2"
 
 
 const main = async () => {
@@ -40,7 +40,7 @@ const main = async () => {
     await browser.close();
 
 
-    fs.writeFile('../waylandgames-paint-data/citadel/citadel-layer-paint.json', JSON.stringify(paintData, null, 2), (err) => {
+    fs.appendFile('../waylandgames-paint-data/citadel/citadel-layer-paint.json', JSON.stringify(paintData, null, 2), (err) => {
         if (err) throw err
         console.log('Successfully save JSON')
     })
