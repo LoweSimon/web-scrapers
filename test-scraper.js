@@ -8,8 +8,8 @@ puppeteer.use(StealthPlugin())
 
 async function scrape() {
     try {
-        const browser = await puppeteer.launch({headless: true})
-        const full_url = "https://www.themodelworkshop.co.uk/paints/citadel/base.html"
+        const browser = await puppeteer.launch({headless: false})
+        const full_url = "https://www.waylandgames.co.uk/painting-modelling/paints-sprays-primers/army-painter-warpaints/warpaints"
         const page = await browser.newPage()
 
         await page.goto(full_url)
@@ -20,20 +20,20 @@ async function scrape() {
         while (currentPage <= pagesToScrape) {
             let newResults = await page.evaluate(() => {
                 let results = []
-                let items = document.querySelectorAll('.product-item')
+                let items = document.querySelectorAll('.Grid_gridCell__MMwiP ')
                 items.forEach((paint) => {
                     results.push({
-                        paintTitle: paint.querySelector('.product-item-name').innerText,
-                        paintPrice: paint.querySelector('.price-box .special-price .price').innerText,
-                        paintLink: `https://www.themodelworkshop.co.uk${paint.querySelector('.product-item-details a').getAttribute('href')}`
+                        paintTitle: paint.querySelector('h2 a').innerText,
+                        paintPrice: paint.querySelector('.Price_price__sfl_r ').innerText,
+                        paintLink: `https://www.waylandgames.co.uk${paint.querySelector('h2 a').getAttribute('href')}`
                     })
                 })
                 return results
             })
             data = data.concat(newResults)
             if (currentPage < pagesToScrape) {
-                await page.click('li.item.pages-item-next > a')
-                await page.waitForSelector('.product-item')
+                await page.click('li.Pagination_paginationItem__mKof6.Pagination_paginationItemNextPage__WZn0E > button')
+                await page.waitForSelector('.Grid_gridCell__MMwiP ')
                 // await page.waitForSelector('li.item.pages-item-next > a')
             }
             currentPage++

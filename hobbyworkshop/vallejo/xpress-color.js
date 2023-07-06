@@ -7,7 +7,7 @@ puppeteer.use(StealthPlugin())
 import { executablePath } from 'puppeteer';
 
 
-const full_url = "https://www.waylandgames.co.uk/painting-modelling/paints-sprays-primers/citadel-paints/citadel-base"
+const full_url = "https://www.hobbyworkshop.co.uk/paint/vallejo/vallejo-xpress-colour.html"
 
 
 const main = async () => {
@@ -24,11 +24,11 @@ const main = async () => {
             return parseFloat(price.replace('£', ''))
         }
 
-        const paintPods = Array.from(document.querySelectorAll('.Grid_gridCell__MMwiP '))
-        const data = paintPods.map((paint) => ({
-            paintTitle: paint.querySelector('h2 a').innerText,
-            paintPrice: convertPrice(paint.querySelector('.Price_price__sfl_r ').innerText),
-            paintLink: `https://www.waylandgames.co.uk${paint.querySelector('h2 a').getAttribute('href')}`
+        const paintGrid = Array.from(document.querySelectorAll('.product-item'))
+        const data = paintGrid.map((paint) => ({
+            paintTitle: paint.querySelector('.product-item-name').innerText,
+            paintPrice: convertPrice(paint.querySelector('.price-box .special-price .price').innerText),
+            paintLink: paint.querySelector('.product-item-details a').getAttribute('href')
         }))
 
         return data
@@ -40,9 +40,9 @@ const main = async () => {
     await browser.close();
 
 
-    fs.writeFile('../waylandgames-paint-data/citadel/citadel-base-paint.json', JSON.stringify(paintData, null, 2), (err) => {
+    fs.writeFile('../paint-data/vallejo/xpress-color.json', JSON.stringify(paintData, null, 2), (err) => {
         if (err) throw err
-        console.log('Successfully saved JSON')
+        console.log('Successfully save JSON')
     })
 }
 
