@@ -46,7 +46,7 @@ async function scrape() {
         console.log(data)
         await browser.close()
 
-        fs.writeFile('../paint-data/akinteractive/ak-acrylic-paint.json', JSON.stringify(data, null, 2), (err) => {
+        fs.writeFile('./hobbyworkshop/paint-data/akinteractive/ak-acrylic-paint.json', JSON.stringify(data, null, 2), (err) => {
             if (err) throw err
             console.log('Successfully saved JSON')
         })

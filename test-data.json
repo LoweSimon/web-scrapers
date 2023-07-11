@@ -1,102 +1,82 @@
 [
   {
-    "paintTitle": "a light in the ...",
-    "paintPrice": 51.77,
-    "paintLink": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html"
+    "paintTitle": "A Light in the Attic",
+    "paintPrice": 51.77
   },
   {
-    "paintTitle": "tipping the velvet",
-    "paintPrice": 53.74,
-    "paintLink": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html"
+    "paintTitle": "Tipping the Velvet",
+    "paintPrice": 53.74
   },
   {
-    "paintTitle": "soumission",
-    "paintPrice": 50.1,
-    "paintLink": "https://books.toscrape.com/catalogue/soumission_998/index.html"
+    "paintTitle": "Soumission",
+    "paintPrice": 50.1
   },
   {
-    "paintTitle": "sharp objects",
-    "paintPrice": 47.82,
-    "paintLink": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html"
+    "paintTitle": "Sharp Objects",
+    "paintPrice": 47.82
   },
   {
-    "paintTitle": "sapiens: a brief history ...",
-    "paintPrice": 54.23,
-    "paintLink": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html"
+    "paintTitle": "Sapiens: A Brief History of Humankind",
+    "paintPrice": 54.23
   },
   {
-    "paintTitle": "the requiem red",
-    "paintPrice": 22.65,
-    "paintLink": "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html"
+    "paintTitle": "The Requiem Red",
+    "paintPrice": 22.65
   },
   {
-    "paintTitle": "the dirty little secrets ...",
-    "paintPrice": 33.34,
-    "paintLink": "https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html"
+    "paintTitle": "The Dirty Little Secrets of Getting Your Dream Job",
+    "paintPrice": 33.34
   },
   {
-    "paintTitle": "the coming woman: a ...",
-    "paintPrice": 17.93,
-    "paintLink": "https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html"
+    "paintTitle": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+    "paintPrice": 17.93
   },
   {
-    "paintTitle": "the boys in the ...",
-    "paintPrice": 22.6,
-    "paintLink": "https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html"
+    "paintTitle": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+    "paintPrice": 22.6
   },
   {
-    "paintTitle": "the black maria",
-    "paintPrice": 52.15,
-    "paintLink": "https://books.toscrape.com/catalogue/the-black-maria_991/index.html"
+    "paintTitle": "The Black Maria",
+    "paintPrice": 52.15
   },
   {
-    "paintTitle": "starving hearts (triangular trade ...",
-    "paintPrice": 13.99,
-    "paintLink": "https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html"
+    "paintTitle": "Starving Hearts (Triangular Trade Trilogy, #1)",
+    "paintPrice": 13.99
   },
   {
-    "paintTitle": "shakespeare's sonnets",
-    "paintPrice": 20.66,
-    "paintLink": "https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html"
+    "paintTitle": "Shakespeare's Sonnets",
+    "paintPrice": 20.66
   },
   {
-    "paintTitle": "set me free",
-    "paintPrice": 17.46,
-    "paintLink": "https://books.toscrape.com/catalogue/set-me-free_988/index.html"
+    "paintTitle": "Set Me Free",
+    "paintPrice": 17.46
   },
   {
-    "paintTitle": "scott pilgrim's precious little ...",
-    "paintPrice": 52.29,
-    "paintLink": "https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html"
+    "paintTitle": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+    "paintPrice": 52.29
   },
   {
-    "paintTitle": "rip it up and ...",
-    "paintPrice": 35.02,
-    "paintLink": "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html"
+    "paintTitle": "Rip it Up and Start Again",
+    "paintPrice": 35.02
   },
   {
-    "paintTitle": "our band could be ...",
-    "paintPrice": 57.25,
-    "paintLink": "https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html"
+    "paintTitle": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+    "paintPrice": 57.25
   },
   {
-    "paintTitle": "olio",
-    "paintPrice": 23.88,
-    "paintLink": "https://books.toscrape.com/catalogue/olio_984/index.html"
+    "paintTitle": "Olio",
+    "paintPrice": 23.88
   },
   {
-    "paintTitle": "mesaerion: the best science ...",
-    "paintPrice": 37.59,
-    "paintLink": "https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html"
+    "paintTitle": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+    "paintPrice": 37.59
   },
   {
-    "paintTitle": "libertarianism for beginners",
-    "paintPrice": 51.33,
-    "paintLink": "https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html"
+    "paintTitle": "Libertarianism for Beginners",
+    "paintPrice": 51.33
   },
   {
-    "paintTitle": "it's only the himalayas",
-    "paintPrice": 45.17,
-    "paintLink": "https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html"
+    "paintTitle": "It's Only the Himalayas",
+    "paintPrice": 45.17
   }
 ]

@@ -28,7 +28,7 @@ const main = async () => {
         const data = paintGrid.map((paint) => ({
             paintTitle: paint.querySelector('.producttitle').innerText.toLowerCase(),
             paintPrice: convertPrice(paint.querySelector('.price').innerText),
-            paintLink: `https://elementgames.co.uk/${paint.querySelector('div a').getAttribute('href').replace("../../../", "")}`
+            paintLink: `https://elementgames.co.uk/${paint.querySelector('div a').getAttribute('href').replace("../../", "")}`
         }))
 
         return data

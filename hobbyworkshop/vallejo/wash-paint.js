@@ -12,7 +12,7 @@ const full_url = "https://www.hobbyworkshop.co.uk/paint/vallejo/vallejo-model-wa
 
 const main = async () => {
     
-    const browser = await puppeteer.launch({ headless: false, executablePath: executablePath() })
+    const browser = await puppeteer.launch({ headless: "new", executablePath: executablePath() })
 
     const page = await browser.newPage()
 
@@ -27,7 +27,7 @@ const main = async () => {
         const paintGrid = Array.from(document.querySelectorAll('.product-item'))
         const data = paintGrid.map((paint) => ({
             paintTitle: paint.querySelector('.product-item-name').innerText,
-            paintPrice: convertPrice(paint.querySelector('.price-box .special-price .price').innerText),
+            paintPrice: convertPrice(paint.querySelector('.price').innerText),
             paintLink: paint.querySelector('.product-item-details a').getAttribute('href')
         }))
 

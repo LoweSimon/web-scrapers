@@ -14,33 +14,33 @@
 
 ## AK Interactive
 - [x] acrylic paint
-    - [] script run
+    - [x] script run
 - [x] primer paint
-    - [] script run
+    - [x] script run
 - [x] spray paint
-    - [] script run
+    - [x] script run
 - [x] wash paint
-    - [] script run
+    - [x] script run
 
 ## Army Paint
 - [x] warpaint
-    - [] script run
+    - [x] script run
 
 ## Vallejo
 - [x] game air
-    - [] script run
+    - [x] script run
 - [x] game color
-    - [] script run
+    - [x] script run
 - [x] model color
-    - [] script run
+    - [x] script run
 - [x] special fx
-    - [] script run
+    - [x] script run
 - [x] surface primer
-    - [] script run
+    - [x] script run
 - [x] wash paint
-    - [] script run
+    - [x] script run
 - [x] xpress color
-    - [] script run
+    - [x] script run
 
 
 
@@ -105,9 +105,9 @@
 
 ## AK Interactive
 - [x] acrylic paint
-    - [] script run
+    - [x] script run
 - [x] primer paint
-    - [] script run
+    - [x] script run
 - [] spray paint
     - [] script run
 - [] wash paint
@@ -115,24 +115,24 @@
 
 ## Army Paint
 - [x] warpaint
-    - [] script run
+    - [x] script run
 - [x] speed paint
-    - [] script run
+    - [x] script run
 - [x] spray primer
-    - [] script run
+    - [x] script run
 
 ## Vallejo
 - [x] game air
-    - [] script run
+    - [x] script run
 - [x] game color
-    - [] script run
+    - [x] script run
 - [x] model color
-    - [] script run
-- [x] special fx
+    - [x] script run
+- [] special fx
     - [] script run
 - [x] surface primer
-    - [] script run
+    - [x] script run
 - [x] wash paint
-    - [] script run
+    - [x] script run
 - [x] xpress color
-    - [] script run
+    - [x] script run

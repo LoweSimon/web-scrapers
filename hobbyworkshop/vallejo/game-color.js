@@ -13,7 +13,7 @@ async function scrape() {
         const page = await browser.newPage()
 
         await page.goto(full_url)
-        let pagesToScrape = 5
+        let pagesToScrape = 2
         let currentPage = 1
         let data = []
 
@@ -29,7 +29,7 @@ async function scrape() {
                 items.forEach((paint) => {
                     results.push({
                         paintTitle: paint.querySelector('.product-item-name').innerText,
-                        paintPrice: convertPrice(paint.querySelector('.price-box .special-price .price').innerText),
+                        paintPrice: convertPrice(paint.querySelector('.price').innerText),
                         paintLink: paint.querySelector('.product-item-details a').getAttribute('href')
                     })
                 })

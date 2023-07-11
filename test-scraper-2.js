@@ -7,7 +7,7 @@ puppeteer.use(StealthPlugin())
 import { executablePath } from 'puppeteer';
 
 
-const full_url = "https://books.toscrape.com/"
+const full_url = "https://books.toscrape.com/catalogue/page-2.html"
 
 
 const main = async () => {
@@ -42,7 +42,7 @@ const main = async () => {
     await browser.close();
 
 
-    fs.writeFile('./test-data.json', JSON.stringify(paintData, null, 2), (err) => {
+    fs.appendFile('./test-data.json', JSON.stringify(paintData, null, 2), (err) => {
         if (err) throw err
         console.log('Successfully save JSON')
     })
