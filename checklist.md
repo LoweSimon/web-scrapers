@@ -44,7 +44,7 @@
 
 
 
-# Wayland Games
+# Wayland Games - https://www.waylandgames.co.uk/
 
 ## Citadel
 - [x] base paint
@@ -52,21 +52,21 @@
 - [x] contrast paint
     - [x] script run
 - [x] layer paint
-    - [] script run
+    - [x] script run
 - [x] shade paint
-    - [] script run
+    - [x] script run
 - [x] technical paint
-    - [] script run
+    - [x] script run
 
 ## AK Interactive
-- [] acrylic paint
-    - [] script run
-- [] primer paint
-    - [] script run
-- [] spray paint
-    - [] script run
-- [] wash paint
-    - [] script run
+- [x] acrylic paint
+    - [x] script run
+- [x] primer paint
+    - [x] script run
+- [x] spray paint
+    - [x] script run
+- [x] wash paint
+    - [x] script run
 
 ## Army Paint
 - [] warpaint
