@@ -8,45 +8,44 @@ puppeteer.use(StealthPlugin())
 
 async function scrape() {
     try {
-        const browser = await puppeteer.launch({headless: true})
-        const full_url = "https://www.hobbyworkshop.co.uk/catalogsearch/result/index/?manufacturer=1570&q=ak+interactive+wash"
+        const browser = await puppeteer.launch({headless: "new"})
+        const full_url = "https://www.waylandgames.co.uk/painting-modelling/paints-sprays-primers/army-painter-warpaints/speedpaints"
         const page = await browser.newPage()
 
-        await page.goto(full_url)
-        let pagesToScrape = 2
+        await page.goto(full_url, {waitUntil: 'networkidle0'})
+        let pagesToScrape = 3
         let currentPage = 1
         let data = []
 
         while (currentPage <= pagesToScrape) {
-            let newResults = await page.evaluate(() => {
+            let newResults = await page.evaluate((full_url) => {
 
                 const convertPrice = (price) => {
                     return parseFloat(price.replace('£', ''))
                 }
 
                 let results = []
-                let items = document.querySelectorAll('.product-item')
+                let items = document.querySelectorAll('.Grid_gridCell__MMwiP ')
                 items.forEach((paint) => {
                     results.push({
-                        paintTitle: paint.querySelector('.product-item-name').innerText,
-                        paintPrice: convertPrice(paint.querySelector('.price').innerText),
-                        paintLink: paint.querySelector('.product-item-details a').getAttribute('href')
+                        paintTitle: paint.querySelector('h2 a').innerText,
+                        paintPrice: convertPrice(paint.querySelector('.Price_price__sfl_r ').innerText),
+                        paintLink: `https://www.waylandgames.co.uk${paint.querySelector('h2 a').getAttribute('href')}`
                     })
                 })
                 return results
             })
             data = data.concat(newResults)
             if (currentPage < pagesToScrape) {
-                await page.click('li.item.pages-item-next > a')
-                await page.waitForSelector('.product-item')
-                // await page.waitForSelector('li.item.pages-item-next > a')
+                await page.click('li.Pagination_paginationItem__mKof6.Pagination_paginationItemNextPage__WZn0E > button')
+                await page.waitForNetworkIdle({idleTime: 2000})
             }
             currentPage++
         }
         console.log(data)
         await browser.close()
 
-        fs.writeFile('./hobbyworkshop/paint-data/akinteractive/ak-wash-paint.json', JSON.stringify(data, null, 2), (err) => {
+        fs.writeFile('../waylandgames-paint-data/armypainter/speedpaint.json', JSON.stringify(data, null, 2), (err) => {
             if (err) throw err
             console.log('Successfully saved JSON')
         })

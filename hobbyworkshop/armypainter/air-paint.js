@@ -9,11 +9,11 @@ puppeteer.use(StealthPlugin())
 async function scrape() {
     try {
         const browser = await puppeteer.launch({headless: true})
-        const full_url = "https://www.hobbyworkshop.co.uk/catalogsearch/result/index/?manufacturer=1570&q=ak+interactive+wash"
+        const full_url = "https://www.hobbyworkshop.co.uk/paint/army-painter/warpaint-air.html"
         const page = await browser.newPage()
 
         await page.goto(full_url)
-        let pagesToScrape = 2
+        let pagesToScrape = 5
         let currentPage = 1
         let data = []
 
@@ -29,7 +29,7 @@ async function scrape() {
                 items.forEach((paint) => {
                     results.push({
                         paintTitle: paint.querySelector('.product-item-name').innerText,
-                        paintPrice: convertPrice(paint.querySelector('.price').innerText),
+                        paintPrice: convertPrice(paint.querySelector('.price-box .special-price .price').innerText),
                         paintLink: paint.querySelector('.product-item-details a').getAttribute('href')
                     })
                 })
@@ -46,7 +46,7 @@ async function scrape() {
         console.log(data)
         await browser.close()
 
-        fs.writeFile('./hobbyworkshop/paint-data/akinteractive/ak-wash-paint.json', JSON.stringify(data, null, 2), (err) => {
+        fs.writeFile('../paint-data/armypainter/air-paint.json', JSON.stringify(data, null, 2), (err) => {
             if (err) throw err
             console.log('Successfully saved JSON')
         })

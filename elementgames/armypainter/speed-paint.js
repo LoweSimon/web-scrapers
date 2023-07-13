@@ -7,12 +7,12 @@ puppeteer.use(StealthPlugin())
 import { executablePath } from 'puppeteer';
 
 
-const full_url = "https://www.waylandgames.co.uk/painting-modelling/paints-sprays-primers/vallejo-paints/washes"
+const full_url = "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/speedpaint-warpaints"
 
 
 const main = async () => {
     
-    const browser = await puppeteer.launch({ headless: "new", executablePath: executablePath() })
+    const browser = await puppeteer.launch({ headless: false, executablePath: executablePath() })
 
     const page = await browser.newPage()
 
@@ -24,11 +24,11 @@ const main = async () => {
             return parseFloat(price.replace('£', ''))
         }
 
-        const paintGrid = Array.from(document.querySelectorAll('.Grid_gridCell__MMwiP '))
+        const paintGrid = Array.from(document.querySelectorAll('.productgrid'))
         const data = paintGrid.map((paint) => ({
-            paintTitle: paint.querySelector('h2 a').innerText,
-            paintPrice: convertPrice(paint.querySelector('.Price_price__sfl_r ').innerText),
-            paintLink: `https://www.waylandgames.co.uk${paint.querySelector('h2 a').getAttribute('href')}`
+            paintTitle: paint.querySelector('.producttitle').innerText.toLowerCase(),
+            paintPrice: convertPrice(paint.querySelector('.price').innerText),
+            paintLink: `https://elementgames.co.uk/${paint.querySelector('div a').getAttribute('href').replace("../../", "")}`
         }))
 
         return data
@@ -40,7 +40,7 @@ const main = async () => {
     await browser.close();
 
 
-    fs.writeFile('../waylandgames-paint-data/vallejo/wash-paint.json', JSON.stringify(paintData, null, 2), (err) => {
+    fs.writeFile('../element-games-paint-data/armypainter/speed-paint.json', JSON.stringify(paintData, null, 2), (err) => {
         if (err) throw err
         console.log('Successfully save JSON')
     })

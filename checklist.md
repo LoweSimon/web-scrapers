@@ -25,6 +25,12 @@
 ## Army Paint
 - [x] warpaint
     - [x] script run
+- [] air-paint
+    - [] script run
+- [] speedpaint
+    - [] script run
+- [] spray-paint
+    - [] script run
 
 ## Vallejo
 - [x] game air
@@ -69,24 +75,30 @@
     - [x] script run
 
 ## Army Paint
-- [] warpaint
-    - [] script run
+- [x] warpaint
+    - [x] script run
+- [x] air-paint
+    - [x] script run
+- [x] speedpaint
+    - [x] script run
+- [x] spray-paint
+    - [x] script run
 
 ## Vallejo
-- [] game air
-    - [] script run
-- [] game color
-    - [] script run
-- [] model color
-    - [] script run
-- [] special fx
-    - [] script run
-- [] surface primer
-    - [] script run
-- [] wash paint
-    - [] script run
-- [] xpress color
-    - [] script run
+- [x] game air
+    - [x] script run
+- [x] game color
+    - [x] script run
+- [x] model color
+    - [x] script run
+- [x] special fx
+    - [x] script run
+- [x] surface primer
+    - [x] script run
+- [x] wash paint
+    - [x] script run
+- [x] xpress color
+    - [x] script run
 
 
 # Hobby Workshop - https://www.hobbyworkshop.co.uk/
@@ -95,7 +107,7 @@
 - [x] base paint
     - [x] script run
 - [x] contrast paint
-    - [] script run
+    - [x] script run
 - [x] layer paint
     - [x] script run
 - [x] shade paint
@@ -119,6 +131,8 @@
 - [x] speed paint
     - [x] script run
 - [x] spray primer
+    - [x] script run
+- [x] air paint
     - [x] script run
 
 ## Vallejo
