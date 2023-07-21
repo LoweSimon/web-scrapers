@@ -1,0 +1,19 @@
+[
+    {
+        "paintImage": "",
+        "paintTitle": "",
+        "paintType": "",
+        "paintPrice":
+            {
+                "elementPrice": "",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    }
+]
