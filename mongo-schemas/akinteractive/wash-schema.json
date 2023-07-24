@@ -1,0 +1,308 @@
+[
+    {
+        "paintImage": "",
+        "paintTitle": "Exhaust Wash 35ml",
+        "paintType": "AK Wash",
+        "paintPrice":
+            {
+                "elementPrice": "4.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/ak-interactive/AKWASH/ak-interactive-35ml-exhaust-wash-x6",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Grease Shafts and Bearings Wash 35ml",
+        "paintType": "AK Wash",
+        "paintPrice":
+            {
+                "elementPrice": "4.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/ak-interactive/AKWASH/ak-interactive-35ml-grease-shafts-and-bearings-wash-x6",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Wash for Wood 35ml",
+        "paintType": "AK Wash",
+        "paintPrice":
+            {
+                "elementPrice": "4.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/ak-interactive/AKWASH/ak-interactive-35ml-wash-for-wood-x6",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Aircraft Engine Wash 35ml",
+        "paintType": "AK Wash",
+        "paintPrice":
+            {
+                "elementPrice": "4.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/ak-interactive/AKWASH/ak-interactive-35ml-aircraft-engine-wash-x6",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Landing Gear Wash 35ml",
+        "paintType": "AK Wash",
+        "paintPrice":
+            {
+                "elementPrice": "4.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/ak-interactive/AKWASH/ak-interactive-35ml-landing-gear-wash-x6",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Africa Korps Wash",
+        "paintType": "AK Wash",
+        "paintPrice":
+            {
+                "elementPrice": "4.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/ak-interactive/AKWASH/ak-interactive-africa-korps-wash",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Dark Wash for Wood Deck",
+        "paintType": "AK Wash",
+        "paintPrice":
+            {
+                "elementPrice": "4.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/ak-interactive/AKWASH/ak-interactive-dark-wash-for-wood-deck-x6",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Dark Yellow Wash",
+        "paintType": "AK Wash",
+        "paintPrice":
+            {
+                "elementPrice": "4.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/ak-interactive/AKWASH/ak-interactive-dark-yellow-wash-x6",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Enamel Wash: Dark Brown for Green Vehicles",
+        "paintType": "AK Wash",
+        "paintPrice":
+            {
+                "elementPrice": "4.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/ak-interactive/AKWASH/ak-interactive-enamel-wash-dark-brown-for-green-vehicles",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Enamel Wash: Light Rust for Green Vehicles",
+        "paintType": "AK Wash",
+        "paintPrice":
+            {
+                "elementPrice": "4.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/ak-interactive/AKWASH/ak-interactive-enamel-wash-light-rust-for-green-vehicles",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Grey Wash for Kriegsmarine Ships",
+        "paintType": "AK Wash",
+        "paintPrice":
+            {
+                "elementPrice": "4.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/ak-interactive/AKWASH/ak-interactive-grey-wash-for-kriegsmarine-ships-x6",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Interior Wash",
+        "paintType": "AK Wash",
+        "paintPrice":
+            {
+                "elementPrice": "4.24",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/ak-interactive/AKWASH/ak-interactive-interior-wash-x6",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Neutral Grey for White/Black Wash",
+        "paintType": "AK Wash",
+        "paintPrice":
+            {
+                "elementPrice": "4.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/ak-interactive/AKWASH/ak-interactive-neutral-grey-for-whiteblack-wash-x6",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Oif & Oef - US Vehicle Wash",
+        "paintType": "AK Wash",
+        "paintPrice":
+            {
+                "elementPrice": "4.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/ak-interactive/AKWASH/ak-interactive-oif-and-oef-us-vehicle-wash-x6",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Track Wash",
+        "paintType": "AK Wash",
+        "paintPrice":
+            {
+                "elementPrice": "4.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/ak-interactive/AKWASH/ak-interactive-track-wash-x6",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Wash for Grey Decks",
+        "paintType": "AK Wash",
+        "paintPrice":
+            {
+                "elementPrice": "4.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/ak-interactive/AKWASH/ak-interactive-wash-for-grey-decks-x6",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Wash For Nato Tanks",
+        "paintType": "AK Wash",
+        "paintPrice":
+            {
+                "elementPrice": "4.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/ak-interactive/AKWASH/ak-interactive-wash-for-nato-tanks",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Wash for Panzer Grey",
+        "paintType": "AK Wash",
+        "paintPrice":
+            {
+                "elementPrice": "4.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/ak-interactive/AKWASH/ak-interactive-wash-for-panzer-grey-x6",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    }
+]
