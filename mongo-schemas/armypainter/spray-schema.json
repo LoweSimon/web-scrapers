@@ -1,1428 +1,544 @@
 [
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Anti-Shine Matt Varnish",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "10.35",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/base-primer-anti-shine-matt-varnish",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Alien Purple",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-alien-purple",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Army Green",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-army-green",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Barbarian Flesh",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-barbarian-flesh",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Chaotic Red",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/chaotic-red",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Crystal Blue",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-crystal-blue",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Daemonic Yellow",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-daemonic-yellow",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Deep Blue",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-deep-blue",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Dragon Red",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-dragon-red",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Fur Brown",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-fur-brown",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Goblin Green",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-goblin-green",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Greenskin",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-greenskin",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Gun Metal",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-gun-metal",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Leather Brown",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-leather-brown",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Necrotic Flesh",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-necrotic-flesh",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Plate Mail Metal",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-plate-mail-metal",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Pure Red",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/../../paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-pure-red",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Ultramarine Blue",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-ultramarine-blue",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Uniform Grey",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-uniform-grey",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Aegis Suit Satin Varnish",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "10.35",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/../../paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/base-primer-aegis-suit-satin-varnish",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Matt Black",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "10.35",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/base-primer-matt-black",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Matt White",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "10.35",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/base-primer-matt-white",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Angel Green",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-angel-green",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Ash Grey",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-ash-grey",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Brainmatter Beige",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-brainmatter-beige",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Desert Yellow",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-desert-yellow",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Greedy Gold",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "13.50",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-greedy-gold",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Hydra Turquoise",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-hydra-turquoise",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Oak Brown",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-oak-brown",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Pixie Pink",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-pixie-pink",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Skeleton Bone",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-skeleton-bone",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Wolf Grey",
+        "paintType": "Spray Primer",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "11.25",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/spray-paints-primers/the-army-painter-sprays/colour-primer-wolf-grey",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }

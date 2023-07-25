@@ -1,51 +1,8 @@
-import puppeteer from 'puppeteer-extra';
-import StealthPlugin from 'puppeteer-extra-plugin-stealth';
-import * as fs from 'fs';
+import data from './elementgames/element-games-paint-data/armypainter/speed-paint.json' assert { type: "json" }
 
-puppeteer.use(StealthPlugin())
+const stringy = JSON.stringify(data)
+const parsed = JSON.parse(stringy)
 
-import { executablePath } from 'puppeteer';
-
-
-const full_url = "https://books.toscrape.com/"
-
-
-const main = async () => {
-
-    
-    
-    const browser = await puppeteer.launch({ headless: false, executablePath: executablePath() })
-
-    const page = await browser.newPage()
-
-    await page.goto(full_url)
-
-    const paintData = await page.evaluate((full_url) => {
-
-        const convertPrice = (price) => {
-            return parseFloat(price.replace('£', ''))
-        }
-
-        const paintGrid = Array.from(document.querySelectorAll('.product_pod'))
-        const data = paintGrid.map((paint) => ({
-            paintTitle: paint.querySelector('h3 a').getAttribute('title'),
-            paintPrice: convertPrice(paint.querySelector('.price_color').innerText)
-            // paintLink: paint.querySelector('.instock availability').innerText
-        }))
-
-        return data
-    }, full_url)
-
-    console.log(paintData)
-    
-
-    await browser.close();
-
-
-    fs.writeFile('./test-data.json', JSON.stringify(paintData, null, 2), (err) => {
-        if (err) throw err
-        console.log('Successfully save JSON')
-    })
+for (let i = 0; i <= parsed.length; i++) {
+    console.log(parsed[i].paintTitle89)
 }
-
-main()
