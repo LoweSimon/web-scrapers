@@ -1497,577 +1497,1002 @@
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Khaki",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/khaki-2650",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Earth",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/earth",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Desert Yellow",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/desert-yellow-2652",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Yellow Olive",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/yellow-olive-2653",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },{
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Terracotta",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/terracotta",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Tan",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/tan",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Cayman Green",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/cayman-green",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Glacier Blue",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/glacier-blue",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Verdigris",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/verdigris-2669",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Elfic Flesh",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/elfic-flesh",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Rosy Flesh",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/rosy-flesh",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Off White",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/off-white",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Steel Grey",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/steel-grey",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Fluorescent Yellow",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/fluo-yellow",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Fluorescent Green",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/fluo-green",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Mutation Green",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/mutation-green",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Non Metallic Metal Set",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "19.35",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/game-color-set-non-metallic-metal",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Metallic Colours Set",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "19.35",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/vallejo-game-colour-set-metallic-colours-x8",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Fluorescent Magenta",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.48",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/av-vallejo-game-color-18ml-fluo-fluorescent-magenta",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Fluorescent Red",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.48",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/av-vallejo-game-color-18ml-fluo-fluorescent-red",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Polyurethane Matt Varnish",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.48",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/av-vallejo-game-color-18ml-polyurethane-matt-varnish",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Advanced Set",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "38.69",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/av-vallejo-game-color-set-advanced-set-x16",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "White Primer",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/white-primer",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Stormy Blue",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/stormy-blue",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Magic Blue",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/magic-blue",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Electric Blue",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/electric-blue",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Livery Green",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/livery-green",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Dwarf Skin",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/dwarf-skin",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Ghost Grey",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/ghost-grey",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Stonewall Grey",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/stonewall-grey",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Pale Yellow",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/pale-yellow",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Cadmium Skin",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/cadmium-skin",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Heavy Blue",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/heavy-blue",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintTitle": "Heavy Grey",
+        "paintType": "Game Color",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/heavy-grey",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Heavy Khaki",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/heavy-khaki",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Heavy Ochre",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/heavy-ochre",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Heavy Orange",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/heavy-orange",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Heavy Brown",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/heavy-brown",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Heavy Charcoal",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/heavy-charcoal",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Heavy Skintone",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/heavy-skintone",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Heavy Red",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/heavy-red",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Heavy Violet",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/heavy-violet",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Heavy Bluegrey",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/heavy-bluegrey",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Heavy Green",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/heavy-green",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Heavy Blackgreen",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/heavy-blackgreen",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Heavy Warmgrey",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/heavy-warmgrey",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Heavy Goldbrown",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/heavy-goldbrown",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Heavy Siena",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/heavy-siena",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Yellow Ink",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/yellow-ink",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Red Ink",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/red-ink",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Violet Ink",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/violet-ink",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Blue Ink",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/blue-ink",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Green Ink",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/green-ink",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Black Green Ink",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/black-green-ink",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Sepia Ink",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/sepia-ink",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Skin Wash Ink",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/skin-wash-ink",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Black Ink",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/black-ink",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Smokey Ink",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/smokey-ink",
+                "waylandLind": "",
+                "hobbyworkshopLink": ""
+            }
+    },
+    {
+        "paintImage": "",
+        "paintTitle": "Brown Ink",
+        "paintType": "Game Color",
+        "paintPrice":
+            {
+                "elementPrice": "2.49",
+                "waylandPrice": "",
+                "hobbyworkshopPrice": ""
+            },
+        "paintLink":
+            {
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/game-color/brown-ink",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
