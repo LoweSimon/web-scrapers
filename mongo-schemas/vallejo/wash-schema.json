@@ -1,1428 +1,522 @@
 [
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "White - 35ml",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "4.40",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/white-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Dark Yellow - 35ml",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "4.40",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/dark-yellow-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Light Rust - 35ml",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "4.40",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/light-rust-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Rust - 35ml",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "4.40",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/rust-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Dark Brown - 35ml",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "4.40",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/dark-brown-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Light Grey - 35ml",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "4.40",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/light-grey-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Olive Green - 35ml",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "4.40",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/olive-green-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Dark Khaki Green - 35ml",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "4.40",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/dark-khaki-green-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Oiled Earth - 35ml",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "4.40",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/oiled-earth-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "European Dust - 35ml",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "4.40",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/european-dust-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Blue Grey - 35ml",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "4.40",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/blue-grey-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Chipping Medium - 35ml",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "4.40",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/chipping-medium-12247",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Washes Set - 8 x 17ml",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "19.34",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/vallejo-washes-set-8-x-17ml",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Sepia",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/sepia-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Black",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/black-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Pale Grey Shade",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/pale-grey-shade-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Umber Shade",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/umber-shade-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Fleshtone Shade",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/fleshtone-shade-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Green Shade",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/green-shade-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Red Shade",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/red-shade-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Blue Shade",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "2.49",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/blue-shade-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Dark Rust - 35ml",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "4.40",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/dark-rust-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Dark Green - 35ml",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "4.40",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/dark-green-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Brown - 35ml",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "4.40",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/brown-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Grey - 35ml",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "4.40",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/grey-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Dark Grey - 35ml",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "4.40",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/dark-grey-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Black - 35ml",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "4.40",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/black-wash-12240",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Desert Dust - 35ml",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "4.40",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/desert-dust-wash",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
     },
     {
         "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
+        "paintCompany": "Vallejo",
+        "paintTitle": "Sepia Wash - 200ml",
+        "paintType": "Wash",
         "paintPrice":
             {
-                "elementPrice": "",
+                "elementPrice": "7.65",
                 "waylandPrice": "",
                 "hobbyworkshopPrice": ""
             },
         "paintLink":
             {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
-                "waylandLind": "",
-                "hobbyworkshopLink": ""
-            }
-    },
-    {
-        "paintImage": "",
-        "paintTitle": "",
-        "paintType": "",
-        "paintPrice":
-            {
-                "elementPrice": "",
-                "waylandPrice": "",
-                "hobbyworkshopPrice": ""
-            },
-        "paintLink":
-            {
-                "elementLink": "",
+                "elementLink": "https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/vallejo-paints/washes/sepia-wash-200ml",
                 "waylandLind": "",
                 "hobbyworkshopLink": ""
             }
