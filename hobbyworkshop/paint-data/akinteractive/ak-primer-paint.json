@@ -1,10 +1,12 @@
 [
   {
+    "DONE":"DONE",
     "paintTitle": "Grey Primer And Microfiller AK Interactive AK758",
     "paintPrice": 6.99,
     "paintLink": "https://www.hobbyworkshop.co.uk/grey-primer-and-microfiller-ak-interactive-ak758.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Black Primer And Microfiller AK Interactive AK757",
     "paintPrice": 6.99,
     "paintLink": "https://www.hobbyworkshop.co.uk/black-primer-and-microfiller-ak-interactive-ak757.html"
@@ -25,6 +27,7 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/100ml-white-primer-3rd-gen-ak-interactive-ak11240.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "White Primer And Microfiller AK Interactive AK759",
     "paintPrice": 6.99,
     "paintLink": "https://www.hobbyworkshop.co.uk/white-primer-and-microfiller-ak-interactive-ak759.html"
