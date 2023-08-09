@@ -42,6 +42,7 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-elven-flesh.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Orc Blood",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-orc-blood.html"
@@ -95,11 +96,13 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-kobold-skin.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Blue Tone Ink",
     "paintPrice": 2.69,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-blue-tone-ink.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Purple Tone Ink",
     "paintPrice": 2.69,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-purple-tone-ink.html"
@@ -189,61 +192,73 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-cultist-robe.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Troglodyte Blue",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-troglodyte-blue.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Troll Claws",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-troll-claws.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Vampire Red",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-vampire-red.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Venom Wyrm",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-venom-wyrm.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Viking Blue",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-viking-blue.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Wasteland Soil",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-wasteland-soil.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Werewolf Fur",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-werewolf-fur.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Witch Brew",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-witch-brew.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Wizards Orb",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-wizards-orb.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Rough Iron",
     "paintPrice": 2.69,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-rough-iron.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Mid Brown",
     "paintPrice": 2.69,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-mid-brown.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Light Tone",
     "paintPrice": 2.69,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-light-tone.html"
@@ -255,96 +270,115 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-kraken-skin.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Mars Red",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-mars-red.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Toxic Mist",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-toxic-mist.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Moon Dust",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-moon-dust.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Mouldy Clothes",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-mouldy-clothes.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Mummy Robes",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-mummy-robes.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Mutant Hue",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-mutant-hue.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Necromancer Cloak",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-necromancer-cloak.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Oozing Purple",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-oozing-purple.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Phoenix Flames",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-phoenix-flames.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Poisonous Cloud",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-poisonous-cloud.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Royal Cloak",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-royal-cloak.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Scaly Hide",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-scaly-hide.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Warlock Purple",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-warlock-purple.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Voidshield Blue",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-voidshield-blue.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Snake Scales",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-snake-scales.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Spaceship Exterior",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-spaceship-exterior.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Stone Golem",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-stone-golem.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Sulfide Ochre",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-sulfide-ochre.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Toxic Boils",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-toxic-boils.html"
@@ -356,11 +390,13 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-brush-on-primer.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Gloss Varnish",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-gloss-varnish.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Warpaints Mixing Medium",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-warpaints-mixing-medium.html"
@@ -372,6 +408,7 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-glistening-blood.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Wet Mud",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-wet-mud.html"
@@ -383,6 +420,7 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-dry-rust.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Scar Tissue",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-scar-tissue.html"
@@ -406,6 +444,7 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-crystal-blue.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Ultramarine Blue",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-ultramarine-blue.html"
@@ -423,6 +462,7 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-ash-grey.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Monster Brown",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-monster-brown.html"
@@ -440,11 +480,13 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-fur-brown.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Oak Brown",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-oak-brown.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Tanned Flesh",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-tanned-flesh.html"
@@ -456,11 +498,13 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-alien-purple.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Shining Silver",
     "paintPrice": 2.69,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-shining-silver.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Plate Mail Metal",
     "paintPrice": 2.69,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-plate-mail-metal.html"
@@ -478,36 +522,43 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-greedy-gold.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Weapon Bronze",
     "paintPrice": 2.69,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-weapon-bronze.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Soft Tone Ink",
     "paintPrice": 2.69,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-soft-tone-ink.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Strong Tone Ink",
     "paintPrice": 2.69,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-strong-tone-ink.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Dark Tone Ink",
     "paintPrice": 2.69,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-dark-tone-ink.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Green Tone Ink",
     "paintPrice": 2.69,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-green-tone-ink.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Wolf Grey",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-wolf-grey.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Matt White",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-matt-white.html"
@@ -519,21 +570,25 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-dragon-red.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Matt Black",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-matt-black.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Quickshade Wash Mixing Medium",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-quickshade-wash-mixing-medium.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Red Tone Ink",
     "paintPrice": 2.69,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-red-tone-ink.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Skeleton Bone",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-skeleton-bone.html"
@@ -551,6 +606,7 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-daemonic-yellow.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Necrotic Flesh",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-necrotic-flesh.html"
@@ -585,11 +641,13 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-anti-shine.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - True Copper",
     "paintPrice": 2.69,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-true-copper.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Military Shader",
     "paintPrice": 2.69,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-military-shader.html"
@@ -619,6 +677,7 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-ice-storm.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Mythical Orange",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-mythical-orange.html"
@@ -630,6 +689,7 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-grimoire-purple.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Pixie Pink",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-pixie-pink.html"
@@ -659,6 +719,7 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-brainmatter-beige.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Uniform Grey",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-uniform-grey.html"
@@ -676,6 +737,7 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-leather-brown.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Army Painter Warpaint - Pure Red",
     "paintPrice": 2.56,
     "paintLink": "https://www.hobbyworkshop.co.uk/army-painter-warpaint-pure-red.html"
