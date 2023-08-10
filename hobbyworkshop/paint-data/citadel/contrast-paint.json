@@ -23,6 +23,7 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/sigvald-burgundy-18ml-citadel-contrast.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Stormfiend 18ml - Citadel Contrast",
     "paintPrice": 3.94,
     "paintLink": "https://www.hobbyworkshop.co.uk/stormfiend-18ml-citadel-contrast.html"
@@ -100,6 +101,7 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/kroxigor-scales-18ml-citadel-contrast.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Striking Scorpion Green 18ml - Citadel Contrast",
     "paintPrice": 3.94,
     "paintLink": "https://www.hobbyworkshop.co.uk/striking-scorpion-green-18ml-citadel-contrast.html"
@@ -176,11 +178,13 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/contrast-akhelian-green-18ml-gw-29-19.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Contrast: Ultramarines Blue (18Ml) - GW-29-18",
     "paintPrice": 3.94,
     "paintLink": "https://www.hobbyworkshop.co.uk/contrast-ultramarines-blue-18ml-gw-29-18.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Citadel Colour: Contrast Paint Set",
     "paintPrice": 29.05,
     "paintLink": "https://www.hobbyworkshop.co.uk/citadel-colour-contrast-paint-set.html"
@@ -198,6 +202,7 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/contrast-black-templar-18ml-gw-29-38.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Contrast: Space Wolves Grey (18Ml) - GW-29-36",
     "paintPrice": 3.94,
     "paintLink": "https://www.hobbyworkshop.co.uk/contrast-space-wolves-grey-18ml-gw-29-36.html"
@@ -315,46 +320,55 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/technical-contrast-medium-24ml-gw-27-33.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Contrast: Plaguebearer Flesh (18Ml) - GW-29-42",
     "paintPrice": 3.94,
     "paintLink": "https://www.hobbyworkshop.co.uk/contrast-plaguebearer-flesh-18ml-gw-29-42.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Contrast: Terradon Turquoise (18Ml) - GW-29-43",
     "paintPrice": 3.94,
     "paintLink": "https://www.hobbyworkshop.co.uk/contrast-terradon-turquoise-18ml-gw-29-43.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Contrast: Talassar Blue (18Ml) - GW-29-39",
     "paintPrice": 3.94,
     "paintLink": "https://www.hobbyworkshop.co.uk/contrast-talassar-blue-18ml-gw-29-39.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Contrast: Warp Lightning (18Ml) - GW-29-40",
     "paintPrice": 3.94,
     "paintLink": "https://www.hobbyworkshop.co.uk/contrast-warp-lightning-18ml-gw-29-40.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Contrast: Aethermatic Blue (18Ml) - GW-29-41",
     "paintPrice": 3.94,
     "paintLink": "https://www.hobbyworkshop.co.uk/contrast-aethermatic-blue-18ml-gw-29-41.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Contrast: Wyldwood (18Ml) - GW-29-30",
     "paintPrice": 3.94,
     "paintLink": "https://www.hobbyworkshop.co.uk/contrast-wyldwood-18ml-gw-29-30.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Contrast: Darkoath Flesh (18Ml) - GW-29-33",
     "paintPrice": 3.94,
     "paintLink": "https://www.hobbyworkshop.co.uk/contrast-darkoath-flesh-18ml-gw-29-33.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Contrast: Creed Camo (18Ml) - GW-29-23",
     "paintPrice": 3.94,
     "paintLink": "https://www.hobbyworkshop.co.uk/contrast-creed-camo-18ml-gw-29-23.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Contrast: Shyish Purple (18Ml) - GW-29-15",
     "paintPrice": 3.94,
     "paintLink": "https://www.hobbyworkshop.co.uk/contrast-shyish-purple-18ml-gw-29-15.html"
@@ -366,6 +380,7 @@
     "paintLink": "https://www.hobbyworkshop.co.uk/contrast-gryph-hound-orange-18ml-gw-29-11.html"
   },
   {
+    "DONE":"DONE",
     "paintTitle": "Contrast: Volupus Pink (18Ml) - GW-29-14",
     "paintPrice": 3.94,
     "paintLink": "https://www.hobbyworkshop.co.uk/contrast-volupus-pink-18ml-gw-29-14.html"
